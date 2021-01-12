@@ -13,8 +13,8 @@
 
 
 //Replace with your network credentials
-const char* ssid = "NETGEAR09";
-const char* password = "smoothbreeze500";
+const char* ssid = "";
+const char* password = "";
 
 #define PART_BOUNDARY "123456789000000000000987654321"
 
